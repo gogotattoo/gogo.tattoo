@@ -36,8 +36,14 @@ a:focus {
     color: #eb3812;
 }
 
+#about {
+  background-image: url('/img/machine1.png');
+  background-repeat: no-repeat;
+  background-size: contain;;
+}
 #about a {
-    color: rgba(52, 52, 52, .7);
+    /*color: rgba(52, 52, 52, .7);*/
+    color: rgb(0,0,0);
 }
 
 #about a:hover,
@@ -187,7 +193,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: url(../img/header2.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -489,4 +495,9 @@ body {
     height: 300px;
     overflow: visible;
     position: relative;
+}
+
+.service-pic {
+    width: auto;
+    height: 200px;
 }

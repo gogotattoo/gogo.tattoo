@@ -1,7 +1,6 @@
-baseurl = "http://gogo.tattoo/alpha/"
+baseurl = "http://gogo.tattoo/"
 languageCode = "en-us"
 title = "gogo.tattoo"
-theme = "gogo-tattoo-theme"
 googleAnalytics = "UA-79234406-1"
 
 DefaultContentLanguage = "en"
@@ -69,17 +68,17 @@ DefaultContentLanguage = "en"
 		headline = "services.headline"
 
         [[params.services.list]]
-            icon = "fa-diamond"
+            image = "lady1"
             title = "service.item1"
             description = "service.desc1"
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "service.item2"
-			description = "service.desc2"
+      			image = "lady2"
+      			title = "service.item2"
+      			description = "service.desc2"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
+            image = "lady3"
 						title = "service.item3"
 						description = "service.desc3"
 
