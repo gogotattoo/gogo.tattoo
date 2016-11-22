@@ -1,0 +1,57 @@
+# Landing
+- id: main.slogan
+  translation: "Our mission is to better the world of tattoos"
+- id: main.subtitle
+  translation: 'Recognition for artists, trust for clients, authenticity for tattoos'
+- id: main.buttonText
+  translation: "Find out more!"
+
+#Navigation
+- id: nav.about
+  translation: "About"
+- id: nav.services
+  translation: "Services"
+- id: nav.portfolio
+  translation: "Portfolio"
+- id: nav.contact
+  translation: "Contact"
+
+# About
+- id: about.headline
+  translation: "Tattoos are permanent."
+- id: about.subtitle
+  translation: "Shouldn’t artists’ portfolios be too?"
+- id: about.description
+  translation: "Gogo Tattoo Project uses blockchain technology to offer tattoo artists an immutable lifetime record of their portfolios, proving creative ownership of their work for their own benefit and for the sake of the people who will wear it. Our decentralized platform enables artists to showcase their designs to tattoo enthusiasts worldwide and connect locally at the studio level with total transparency for client and creator alike, offering unprecedented assurance of a regret-free tattoo experience."
+- id: about.buttonText
+  translation: "Get started!"
+
+  # features
+- id: services.headline
+  translation: "What we do"
+- id: service.item1
+  translation: "Helping Artists Stand Out"
+- id: service.desc1
+  translation: "Tattoo artists deserve recognition and the chance to connect with the people who would be happiest wearing their work. Conventional business channels offer little protection against the fraudsters who copy and claim credit for artwork they lack the talent or ownership to deliver in ink. Peer-to-peer digital connectivity using the latest blockchain authentication technology gives artists total proof of creatorship while connecting them with potential clients worldwide in ways previously unimaginable."
+- id: service.item2
+  translation: "Making Tattoos Worry-free"
+- id: service.desc2
+  translation: "Tattoo experiences are permanent, and no one wants a permanent regret. Gogo Tattoo Project removes virtually all grounds for distrust between tattoo artist and the people who commission their work. Our blockchain-secured marketplace allows consumers to browse artists’ portfolios with absolute confidence that the work promised there can be delivered."
+- id: service.item3
+  translation: "Bettering The Tattoo World"
+- id: service.desc3
+  translation: "Unbreakable trust doesn’t just enhance traditional tattoo experiences. It enables tattoo experiences never before possible. For artists, this means the chance to create, market, and licence your work in new ways. For consumers, it means the chance to seek out the right artist at any distance for tattoos connected to communities and stories or limited edition releases, to mention just a few possibilities..."
+
+# Call to action
+- id: cta.headline
+  translation: "Join the Blockchain Tattoo (R)evolution!"
+- id: cta.explanation
+  translation: "Gogo Tattoo is ongoing project. More info is coming soon..."
+- id: cta.buttonText
+  translation: "Get Involved!"
+
+# Contact
+- id: contact.headline
+  translation: "Let's Get In Touch!"
+- id: contact.description
+  translation: "Ready to contribute to the development of the future of the tattoo industry?<br>That's great! Join us on Slack, subscribe to our twitter and fork us on github!"

@@ -1,0 +1,56 @@
+# Landing
+- id: main.slogan
+  translation: "我们的使命是<br>把纹身的世界变得更好"
+- id: main.subtitle
+  translation: '纹身艺术家可以获得认同感，提高身价。<br><br>面对未知的下一个纹身来源，客户可以付出更多信任。<br>有直观的照片可以用来审核，纹身的真实性可以保证。'
+- id: main.buttonText
+  translation: "我想知道多一些!"
+
+# Navigation
+- id: nav.about
+  translation: "关于"
+- id: nav.services
+  translation: "功能"
+- id: nav.portfolio
+  translation: "项目"
+- id: nav.contact
+  translation: "联系"
+
+# About
+- id: about.headline
+  translation: "纹身是永久的。"
+- id: about.subtitle
+  translation: "纹身艺术家的作品集不也应该永久吗？"
+- id: about.description
+  translation: "GogoTattoo使用区块链技术为纹身艺术家创建一个永久的档案，为纹身艺术家证明创意所有权，也为拥有此纹身的人记录下此纹身的寓意。我们的分散的平台提供艺术家们机会去展示他们的设计，世界各地的纹身爱好者的技术和当地的纹身工作室的水平完全透明化，为客户的利益和创作者的版权，提供了前所未有的保证一个不留遗憾的纹身体验。"
+- id: about.buttonText
+  translation: "开始用!"
+
+  # features
+- id: services.headline
+  translation: "狗狗纹身哪有很酷？"
+- id: service.item1
+  translation: "帮助艺术家脱颖而出"
+- id: service.desc1
+  translation: "纹身艺术家应该得到承认，并把他们的设计纹在最欣赏他们作品的人身上。传统的商业模式提供了一条让缺乏创造力的人去复制的别人的纹身作品并声称是自己作品的途径。
+对等的数字连接采用最新的区块链认证技术真正的为艺术家完全证明了他们的创造力，并把他们和全球范围内的潜在客户在以无法想象的方式联结。"
+- id: service.item2
+  translation: "让纹身无忧"
+- id: service.desc2
+  translation: "纹身的经历是永久的，没有人想要一个永久的遗憾。GogoTatto去除了几乎所有让纹身艺术家和任命他们在自己身上完成作品的人之间的所有相互不信任的理由。我们被区块链所担保的市场允许消费者浏览艺术家的档案，我们有绝对的信心，承诺艺术家想展现的是可以被传达的。"
+- id: service.item3
+  translation: "把纹身的世界变得更好"
+- id: service.desc3
+  translation: "牢不可破的信任不只是了增进了传统的纹身体验。它使纹身的体验变得前所未有。对于艺术家来说，这意味着全新方式的创造力、市场和工作执照。对于消费者来说，这意味着有机会在任何地点找到合适自己的艺术家，并联结到纹身社区查看他人的经验，这里只提到了一些可能性…"
+
+# Aside
+- id: aside.headline
+  translation: "参加区块链纹身革命!"
+- id: aside.buttonText
+  translation: "参加!"
+
+# Contact
+- id: contact.headline
+  translation: "联系我们!"
+- id: contact.description
+  translation: "Gogo Tattoo 是个新的项目! 如果你想贡献你的时间或者对项目有兴趣联，系我们通过这些通信通路"

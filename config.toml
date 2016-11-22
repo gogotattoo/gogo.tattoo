@@ -1,0 +1,109 @@
+baseurl = "http://gogo.tattoo/"
+languageCode = "en-us"
+title = "gogo.tattoo"
+theme = "gogo-tattoo-theme"
+googleAnalytics = "UA-79234406-1"
+
+DefaultContentLanguage = "en"
+
+[Languages]
+  [Languages.en]
+    weight = 1
+    title = "gogo.tattoo (Alpha)"
+  [Languages.zh]
+    weight = 2
+    title = "狗狗 🐶 纹身"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "gogo.tattoo"
+	description = "main.slogan"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "gogo tattoo  (Alpha)"
+
+		[params.navigation.links]
+			about     = "nav.about"
+			services  = "nav.services"
+			portfolio = "nav.portfolio"
+			contact   = "nav.contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "main.slogan"
+		subtitle   = "main.subtitle"
+		buttonText = "main.buttonText"
+
+
+	# About section
+	[params.about]
+		headline    = "about.headline"
+		subtitle   = "about.subtitle"
+		description = "about.description"
+		buttonText  = "about.buttonText"
+
+
+	# Service section
+	[params.services]
+		headline = "services.headline"
+
+        [[params.services.list]]
+            icon = "fa-diamond"
+            title = "service.item1"
+            description = "service.desc1"
+
+        [[params.services.list]]
+			icon = "fa-paper-plane"
+			title = "service.item2"
+			description = "service.desc2"
+
+		[[params.services.list]]
+            icon = "fa-newspaper-o"
+						title = "service.item3"
+						description = "service.desc3"
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Call to Action section
+	[params.cta]
+		headline = "cta.headline"
+    explanation = "cta.explanation"
+
+		[params.cta.button]
+			text = "cta.buttonText"
+			link = "//github.com/gogotattoo/"
+
+	# Contact section
+	[params.contact]
+		headline = "contact.headline"
+		description = "contact.description"
+		phone = "+8615900516867"
+		email = "team@gogo.tattoo"
+    slack = "http://gogotattoo.slack.com"
+    twitter = "http://twitter.com/gogo_tattoo"
