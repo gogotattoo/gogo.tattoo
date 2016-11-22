@@ -1,4 +1,4 @@
-baseurl = "http://gogo.tattoo/"
+baseurl = "http://gogo.tattoo/alpha/"
 languageCode = "en-us"
 title = "gogo.tattoo"
 theme = "gogo-tattoo-theme"
