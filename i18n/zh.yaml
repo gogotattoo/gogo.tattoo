@@ -28,7 +28,7 @@
 
   # features
 - id: services.headline
-  translation: "狗狗纹身哪有很酷？"
+  translation: "Gogo Tattoo 哪有很酷？"
 - id: service.item1
   translation: "帮助艺术家脱颖而出"
 - id: service.desc1
@@ -37,20 +37,22 @@
 - id: service.item2
   translation: "让纹身无忧"
 - id: service.desc2
-  translation: "纹身的经历是永久的，没有人想要一个永久的遗憾。GogoTatto去除了几乎所有让纹身艺术家和任命他们在自己身上完成作品的人之间的所有相互不信任的理由。我们被区块链所担保的市场允许消费者浏览艺术家的档案，我们有绝对的信心，承诺艺术家想展现的是可以被传达的。"
+  translation: "纹身的经历是永久的，没有人想要一个永久的遗憾。Gogo Tatto 去除了几乎所有让纹身艺术家和任命他们在自己身上完成作品的人之间的所有相互不信任的理由。我们被区块链所担保的市场允许消费者浏览艺术家的档案，我们有绝对的信心，承诺艺术家想展现的是可以被传达的。"
 - id: service.item3
   translation: "把纹身的世界变得更好"
 - id: service.desc3
   translation: "牢不可破的信任不只是了增进了传统的纹身体验。它使纹身的体验变得前所未有。对于艺术家来说，这意味着全新方式的创造力、市场和工作执照。对于消费者来说，这意味着有机会在任何地点找到合适自己的艺术家，并联结到纹身社区查看他人的经验，这里只提到了一些可能性…"
 
 # Aside
-- id: aside.headline
+- id: cta.headline
   translation: "参加区块链纹身革命!"
-- id: aside.buttonText
+- id: cta.explanation
+  translation: "更多详情敬请期待..."
+- id: cta.buttonText
   translation: "参加!"
 
 # Contact
 - id: contact.headline
   translation: "联系我们!"
 - id: contact.description
-  translation: "Gogo Tattoo 是个新的项目! 如果你想贡献你的时间或者对项目有兴趣联，系我们通过这些通信通路"
+  translation: "Gogo Tattoo 是个新的项目! 如果你想贡献你的时间或者对项目有兴趣，通过这些联系方式联系我们"

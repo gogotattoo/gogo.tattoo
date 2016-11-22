@@ -15,7 +15,7 @@
             {{ range .Site.Params.services.list }}
             <div class="col-lg-4 col-md-4 text-center">
                 <div class="service-box">
-                    <img class="img-centered service-pic" src="img/{{ .image }}.png"></img>
+                    <img class="img-centered service-pic" src="/img/{{ .image }}.png"></img>
                     <h3>{{ i18n .title }}</h3>
                     {{ with .description }}
                         <p class="text-muted">{{ i18n . }}</p>
