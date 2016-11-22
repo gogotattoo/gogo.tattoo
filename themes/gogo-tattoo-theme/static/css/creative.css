@@ -265,6 +265,7 @@ header .header-content .header-content-inner p {
 
 .service-box p {
     margin-bottom: 0;
+    text-align: left;
 }
 
 .portfolio-box {

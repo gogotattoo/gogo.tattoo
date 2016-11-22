@@ -13,12 +13,12 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
                         {{ with .title }}
-                            <h2>{{ . }}</h2>
+                            <h2>{{ . | markdownify }}</h2>
                         {{ end }}
                         {{ if and .title .description }}
                             <hr class="star-primary">
                         {{ end }}
-                        <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
+                        <img src="/img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
                         {{ with .description }}
                             <p>{{ . | markdownify }}</p>
                         {{ end }}

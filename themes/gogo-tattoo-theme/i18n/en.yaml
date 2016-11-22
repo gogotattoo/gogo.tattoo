@@ -28,7 +28,7 @@
 
   # features
 - id: services.headline
-  translation: "What we do"
+  translation: "What we are about"
 - id: service.item1
   translation: "Helping Artists Stand Out"
 - id: service.desc1
@@ -54,4 +54,4 @@
 - id: contact.headline
   translation: "Let's Get In Touch!"
 - id: contact.description
-  translation: "Ready to contribute to the development of the future of the tattoo industry?<br>That's great! Join us on Slack, subscribe to our twitter and fork us on github!"
+  translation: "Ready to contribute to the development of the future of the tattoo industry?<br/>Join us on Slack, follow us on twitter, and fork us on github!"
