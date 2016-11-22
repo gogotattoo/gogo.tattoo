@@ -44,7 +44,7 @@
 
 # Call to action
 - id: cta.headline
-  translation: "Join the Blockchain Tattoo (R)evolution!"
+  translation: "Join the Blockchain Tattoo (R)evolution"
 - id: cta.explanation
   translation: "Gogo Tattoo is ongoing project. More info is coming soon..."
 - id: cta.buttonText
@@ -52,6 +52,6 @@
 
 # Contact
 - id: contact.headline
-  translation: "Let's Get In Touch!"
+  translation: "Let's get in touch!"
 - id: contact.description
-  translation: "Ready to contribute to the development of the future of the tattoo industry?<br/>Join us on Slack, follow us on twitter, and fork us on github!"
+  translation: "Ready to help develop the future of the tattoo industry? Join us on Slack, follow us on twitter, or watch us on github!"
