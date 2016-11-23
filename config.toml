@@ -11,7 +11,7 @@ DefaultContentLanguage = "en"
     title = "gogo.tattoo (Alpha)"
   [Languages.zh]
     weight = 2
-    title = "狗狗 🐶 纹身"
+    title = "gogo.tattoo (Alpha)"
 
 [params]
 
@@ -52,7 +52,7 @@ DefaultContentLanguage = "en"
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "main.slogan"
 		subtitle   = "main.subtitle"
-		buttonText = "main.buttonText"
+		btn        = "main.buttonText"
 
 
 	# About section

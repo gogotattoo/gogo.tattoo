@@ -13,14 +13,14 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
                         {{ with .title }}
-                            <h2>{{ . | markdownify }}</h2>
+                            <h2>{{ i18n . | markdownify }}</h2>
                         {{ end }}
                         {{ if and .title .description }}
                             <hr class="star-primary">
                         {{ end }}
                         <img src="{{ $.Site.BaseURL }}/img/post/{{ .img }}" class="img-responsive img-centered" alt="">
                         {{ with .description }}
-                            <p>{{ . | markdownify }}</p>
+                            <p>{{ i18n . | markdownify }}</p>
                         {{ end }}
                         {{ if or .client .date .category }}
                             <ul class="list-inline item-details">
