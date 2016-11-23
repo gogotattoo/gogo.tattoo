@@ -2,9 +2,9 @@
 - id: main.slogan
   translation: "Our mission is to better the world of tattoos"
 - id: main.subtitle
-  translation: 'Recognition for artists, trust for clients, authenticity for tattoos'
+  translation: "Recognition for artists, trust for clients, authenticity for tattoos"
 - id: main.buttonText
-  translation: "Find out more!"
+  translation: "Find out more"
 
 #Navigation
 - id: nav.about

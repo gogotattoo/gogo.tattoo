@@ -4,7 +4,7 @@
             {{ range .Site.Data.projects }}
                 <div class="col-lg-12 col-sm-12">
                     <a href="#portfolioModal{{ .modalID }}" class="portfolio-box portfolio-link" data-toggle="modal">
-                        <img src="/img/post/{{ .img }}" class="img-responsive center-block" alt="">
+                        <img src="{{ $.Site.BaseURL }}/img/post/{{ .img }}" class="img-responsive center-block" alt="">
                         {{ if and .category .title }}
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">

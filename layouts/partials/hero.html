@@ -12,7 +12,8 @@
                 <p><b>{{ i18n . | markdownify }}</b></p>
             {{ end }}
             {{ with .Site.Params.hero.buttonText }}
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">{{ i18n . }}</a>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">{{ i18n . | markdownify }}
+                </a>
             {{ end }}
         </div>
     </div>
