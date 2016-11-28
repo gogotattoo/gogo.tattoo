@@ -32,6 +32,10 @@
             {{ partial "cta.html" . }}
         {{ end }}
 
+        {{ if .Site.Params.maillist }}
+            {{ partial "maillist.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.contact }}
             {{ partial "contact.html" . }}
         {{ end }}

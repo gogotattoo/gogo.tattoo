@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row no-gutter">
             {{ range .Site.Data.projects }}
-                <div class="col-lg-6 col-sm-6">
+                <div class="col-lg-6 col-sm-12">
                     <a href="#portfolioModal{{ .modalID }}" class="portfolio-box portfolio-link" data-toggle="modal">
                         <img src="{{ $.Site.BaseURL }}/img/post/{{ .img }}" class="img-responsive center-block" alt="">
                         {{ if and .category .title }}

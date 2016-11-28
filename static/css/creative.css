@@ -77,6 +77,16 @@ p {
     background-color: #222;
 }
 
+.bg-dark-mail {
+    background-image: url('/img/block_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+    background-attachment: fixed;
+    color: #fff;
+    background-color: #222;
+}
+
 .text-faded {
     color: rgba(255,255,255,.7);
 }

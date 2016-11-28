@@ -50,6 +50,13 @@
 - id: cta.buttonText
   translation: "Get Involved!"
 
+# Maillist
+- id: maillist.headline
+  translation: "Subscribe for updates"
+- id: maillist.explanation
+  translation: "We won't spam your email, no worries..."
+- id: maillist.buttonText
+  translation: "Subscribe!"
 # Contact
 - id: contact.headline
   translation: "Let's get in touch!"
