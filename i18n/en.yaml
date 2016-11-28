@@ -46,7 +46,7 @@
 - id: cta.headline
   translation: "Join the Blockchain Tattoo (R)evolution"
 - id: cta.explanation
-  translation: "Gogo Tattoo is ongoing project. More info is coming soon..."
+  translation: "Gogo Tattoo is in ongoing development. Check back for updates..."
 - id: cta.buttonText
   translation: "Get Involved!"
 
@@ -60,8 +60,8 @@
 # projects
 - id: pr1.title
   translation: |
-    Gogo Tattoo Birthday!<br><br>
-    The (r)evolution of the tattoo world begins here
+    Gogo Tattoo launches!<br><br>
+    The tattoo (r)evolution begins
 - id: pr1.description
   translation: >
     gogo.tattoo was officially born today!
@@ -72,4 +72,29 @@
     <br/><br/><br/>
       Cheers,
       <br/><br/><br/>
+      The Gogo Tattoo Team
+
+
+- id: pr2.title
+  translation: |
+    How we are tackling the road ahead...
+- id: pr2.description
+  translation: |
+    There's been a lot of exciting news in the blockchain world these past few months,
+    fascinating as well as frightening those of us who have been following.
+    Interest in smart contacts is booming as this powerful new mechanism gains wider attention,
+    while performance issues with consequences like <a href="https://www.cryptocoinsnews.com/ethereums-blockchain-accidentally-splits/" target="_blank">Ethereum's latest split</a> have many on edge
+    and all of us watching closely.
+    <br/><br/>
+    In response to these developments gogo.tattoo is going ahead with development as
+    planned while <a href="http://blog.akasha.world/2016/09/30/launch-imminent/" target="_blank">closely monitoring</a> the general environment in the peer to peer ecosystem. We feel it is important to take the long view of the road ahead, and not rush recklessly
+    into new territory until more is understood about making ideas into realities with blockchain.
+    <br/><br/>
+    Projects we are excited to have in development include our <a href="/gogo">tattoo artist profile page</a>,
+    where you will be able to showcase your work as part of a decentralized
+    network of artists and tattoo enthusiasts around the world. We look forward to bringing you all this
+    and more in the days to come, and as usual hope to hear from you about opportunities to collaborate.
+    <br/><br/>
+      Cheers,
+      <br/><br/>
       The Gogo Tattoo Team
