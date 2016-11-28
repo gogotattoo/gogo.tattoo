@@ -18,6 +18,8 @@ hr {
     max-width: 50px;
     border-color: #f05f40;
     border-width: 3px;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 
 hr.light {
@@ -37,9 +39,9 @@ a:focus {
 }
 
 #about {
-  background-image: url('/alpha/img/machine1.png');
+  background-image: url('/img/machine1.png');
   background-repeat: no-repeat;
-  background-size: contain;;
+  background-size: contain;
 }
 #about a {
     /*color: rgba(52, 52, 52, .7);*/
@@ -80,7 +82,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 40px 0;
 }
 
 aside {
