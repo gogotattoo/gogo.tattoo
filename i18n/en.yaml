@@ -54,9 +54,11 @@
 - id: maillist.headline
   translation: "Subscribe for updates"
 - id: maillist.explanation
-  translation: "We won't spam your email, no worries..."
+  translation: "Don't worry, we won't spam you!"
 - id: maillist.buttonText
-  translation: "Subscribe!"
+  translation: "Subscribe"
+- id: maillist.placeholder
+  translation: "your email here"
 # Contact
 - id: contact.headline
   translation: "Let's get in touch!"

@@ -101,6 +101,7 @@ DefaultContentLanguage = "en"
   [params.maillist]
     headline = "maillist.headline"
     explanation = "maillist.explanation"
+    placeholder = "maillist.placeholder"
 
 		[params.maillist.button]
 			text = "maillist.buttonText"

@@ -51,6 +51,16 @@
 - id: cta.buttonText
   translation: "参加!"
 
+# Maillist
+- id: maillist.headline
+  translation: "订阅更新"
+- id: maillist.explanation
+  translation: "请放心，我们绝对不会向您发送垃圾邮件，只有高质量推送"
+- id: maillist.buttonText
+  translation: "订阅"
+- id: maillist.placeholder
+  translation: "email"
+
 # Contact
 - id: contact.headline
   translation: "联系我们!"
