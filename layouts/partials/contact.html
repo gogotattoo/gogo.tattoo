@@ -2,39 +2,39 @@
 <section id="contact">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                {{ with .Site.Params.contact.headline }}
-                    <h2 class="section-heading">{{ i18n . }}</h2>
-                {{ end }}
-                {{ if and .Site.Params.contact.headline .Site.Params.contact.description }}
-                    <hr class="primary">
-                {{ end }}
+            <div class="col-lg-8 col-lg-offset-2 contact-text">
                 {{ with .Site.Params.contact.description }}
-                    <p>{{ i18n . | markdownify }}</p>
+                    <p class="contact-text">{{ i18n . | markdownify }}</p>
                 {{ end }}
             </div>
           </div>
-              <div class="row">
+          <div class="row">
             {{ if .Site.Params.contact.phone }}
-                <div class="col-lg-3 text-center">
+                <div class="col-lg-3 text-center contact-text">
                     <i class="fa fa-phone fa-3x wow bounceIn"></i>
-                    <p>{{ .Site.Params.contact.phone }}</p>
+                    <p class="contact-text">{{ .Site.Params.contact.phone }}</p>
                 </div>
             {{ end }}
             {{ if .Site.Params.contact.slack }}
-                <div class="col-lg-3 text-center">
+                <div class="col-lg-3 text-center contact-text">
                     <i class="fa fa-slack fa-3x wow bounceIn"></i>
                     <p><a href="{{ .Site.Params.contact.slack }}" target="_blank">Join our Slack!</a></p>
                 </div>
             {{ end }}
             {{ if .Site.Params.contact.twitter }}
-                <div class="col-lg-3 text-center">
+                <div class="col-lg-3 text-center contact-text">
                     <i class="fa fa-twitter fa-3x wow bounceIn"></i>
-                    <p><a href="{{ .Site.Params.contact.twitter }}" target="_blank">Follow us on Twitter!</a></p>
+                    <p class="contact-text"><a href="{{ .Site.Params.contact.twitter }}" target="_blank">Follow us on Twitter!</a></p>
+                </div>
+            {{ end }}
+            {{ if .Site.Params.contact.ryver }}
+                <div class="col-lg-3 text-center contact-text">
+                    <i class="fa fa-weixin fa-3x wow bounceIn"></i>
+                    <p><a href="{{ .Site.Params.contact.ryver }}" target="_blank">Join us on Ryver!</a></p>
                 </div>
             {{ end }}
             {{ if .Site.Params.contact.email }}
-                <div class="col-lg-3 text-center">
+                <div class="col-lg-3 text-center contact-text">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                     <p><a href="mailto:{{ .Site.Params.contact.email }}">{{ .Site.Params.contact.email }}</a></p>
                 </div>

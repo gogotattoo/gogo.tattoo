@@ -4,7 +4,7 @@
 - id: main.subtitle
   translation: "Recognition for artists, trust for clients, authenticity for tattoos"
 - id: main.buttonText
-  translation: "Find out more"
+  translation: "Learn more"
 
 #Navigation
 - id: nav.about
@@ -20,45 +20,47 @@
 - id: about.headline
   translation: "Tattoos are permanent."
 - id: about.subtitle
-  translation: "Shouldn’t artists’ portfolios be too?"
+  translation: "Now your portfolio can be too."
 - id: about.description
-  translation: "Gogo Tattoo Project uses blockchain technology to offer tattoo artists an immutable lifetime record of their portfolios, proving creative ownership of their work for their own benefit and for the sake of the people who will wear it. Our decentralized platform enables artists to showcase their designs to tattoo enthusiasts worldwide and connect locally at the studio level with total transparency for client and creator alike, offering unprecedented assurance of a regret-free tattoo experience."
+  translation: "Gogo Tattoo Project uses blockchain technology to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios."
+- id: about.description2
+  translation: "Our decentralized platform enables artists to showcase their designs to tattoo enthusiasts worldwide. They can then connect locally at the studio level with total transparency for client and creator alike, guaranteeing a regret-free tattoo experience."
 - id: about.buttonText
   translation: "Get started!"
 
   # features
 - id: services.headline
-  translation: "What we are about"
+  translation: "What we're about"
 - id: service.item1
-  translation: "Helping Artists Stand Out"
+  translation: "Helping artists stand out"
 - id: service.desc1
-  translation: "Tattoo artists deserve recognition and the chance to connect with the people who would be happiest wearing their work. Conventional business channels offer little protection against the fraudsters who copy and claim credit for artwork they lack the talent or ownership to deliver in ink. Peer-to-peer digital connectivity using the latest blockchain authentication technology gives artists total proof of creatorship while connecting them with potential clients worldwide in ways previously unimaginable."
+  translation: "Tattoo artists deserve recognition and the chance to connect with the people who would be happiest wearing their work. Peer-to-peer connectivity using blockchain technology gives you the chance to showcase your work to clients worldwide in ways never before imaginable."
 - id: service.item2
-  translation: "Making Tattoos Worry-free"
+  translation: "Making tattoos worry-free"
 - id: service.desc2
-  translation: "Tattoo experiences are permanent, and no one wants a permanent regret. Gogo Tattoo Project removes virtually all grounds for distrust between tattoo artist and the people who commission their work. Our blockchain-secured marketplace allows consumers to browse artists’ portfolios with absolute confidence that the work promised there can be delivered."
+  translation: "Tattoo experiences are permanent, and no one wants a permanent regret. Our blockchain-secured marketplace allows you to browse artists’ portfolios without worrying whether the work promised there can be delivered."
 - id: service.item3
-  translation: "Bettering The Tattoo World"
+  translation: "Connecting shops with artists"
 - id: service.desc3
-  translation: "Unbreakable trust doesn’t just enhance traditional tattoo experiences. It enables tattoo experiences never before possible. For artists, this means the chance to create, market, and licence your work in new ways. For consumers, it means the chance to seek out the right artist at any distance for tattoos connected to communities and stories or limited edition releases, to mention just a few possibilities..."
+  translation: "Being able to link up with artists on gogo.tattoo means the chance to bring in fresh talent when your studio needs it. Be a place where more clients meet better artists to raise your profile with blockchain powered networking."
 
 # Call to action
 - id: cta.headline
   translation: "Join the Blockchain Tattoo (R)evolution"
 - id: cta.explanation
-  translation: "Gogo Tattoo is in ongoing development. Check back for updates..."
+  translation: "Gogo Tattoo is developing non-stop. Check back for updates..."
 - id: cta.buttonText
   translation: "Get Involved!"
 
 # Maillist
 - id: maillist.headline
-  translation: "Subscribe for updates"
+  translation: "Let us know if you would like to receive updates"
 - id: maillist.explanation
-  translation: "Don't worry, we won't spam you!"
+  translation: "Be the first to know about developments at gogo.tattoo."
 - id: maillist.buttonText
   translation: "Subscribe"
 - id: maillist.placeholder
-  translation: "your email here"
+  translation: "email"
 # Contact
 - id: contact.headline
   translation: "Let's get in touch!"
@@ -104,6 +106,40 @@
     network of artists and tattoo enthusiasts around the world. We look forward to bringing you all this
     and more in the days to come, and as usual hope to hear from you about opportunities to collaborate.
     <br/><br/>
+      Cheers,
+      <br/><br/>
+      The Gogo Tattoo Team
+
+
+- id: pr3.title
+  translation: |
+    Where the New Year finds us
+- id: pr3.description
+  translation: |
+    If you've been following gogo.tattoo since our launch this year you probably have some idea of how our
+    mission is coming into focus. On the one hand the task before us is to develop the platform
+    that will connect tattoo experiences with the incredible possibilities blockchain is enabling us to
+     build for. On the other hand, we are working to grow our presence in the tattoo world organically,
+      beginning from local connections with studios and artists who realize the potential of what we're
+      working toward.
+
+      The latest news is all exciting, whether you care most about tattoos or the tech that will change
+      how they're made forever. We're working from an undisclosed location in an exciting city, where
+      major players in the blockchain world are looking to invest their time, energy, and focus
+      in projects that will take the revolution live. Coupled with promising attention in blockchain
+      circles, the welcome we've earned with people who make their lives and livings in tattoo craft
+      is driving our vision to reality in ways we never expected so soon. It was a major milestone to
+      publish proof of work live from a tattoo session for the first time this month. Just as thrilling are the ways this experience continues
+        to shed light on how gogo.tattoo can simultaneously benefit artists, their clients, and the studios where
+        they meet. We've always known what we could do for people, but it means something more to
+        hear it back.
+
+      We're thrilled to be going into a new year with the enthusiasm of the people we're working for
+      behind us. It's been a short, fast, wild ride through a horizon we are helping to push. What comes
+      next is as sure to amaze as it is to surpise and enlighten us with what's to come. We look forward to a new year changing the world together from our unlikely
+      corner of the creative world.
+
+
       Cheers,
       <br/><br/>
       The Gogo Tattoo Team

@@ -12,6 +12,9 @@ DefaultContentLanguage = "en"
   [Languages.zh]
     weight = 2
     title = "gogo.tattoo (Alpha)"
+  [Languages.zh-hant]
+    weight = 3
+    title = "gogo.tattoo (Alpha)"
 
 [params]
 
@@ -60,6 +63,7 @@ DefaultContentLanguage = "en"
 		headline    = "about.headline"
 		subtitle   = "about.subtitle"
 		description = "about.description"
+		description2 = "about.description2"
 		buttonText  = "about.buttonText"
 
 
@@ -110,7 +114,7 @@ DefaultContentLanguage = "en"
 	[params.contact]
 		headline = "contact.headline"
 		description = "contact.description"
-		phone = "+8615900516867"
 		email = "team@gogo.tattoo"
     slack = "http://gogotattoo.slack.com"
     twitter = "http://twitter.com/gogo_tattoo"
+    ryver = "http://gogotattoo.ryver.com"

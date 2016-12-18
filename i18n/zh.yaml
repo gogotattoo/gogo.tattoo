@@ -1,8 +1,8 @@
 # Landing
 - id: main.slogan
-  translation: "我们的使命是<br>把纹身的世界变得更好"
+  translation: "我们的使命是<br>创建更好的纹身世界"
 - id: main.subtitle
-  translation: '纹身艺术家可以获得认同感，提高身价。<br><br>面对未知的下一个纹身来源，客户可以付出更多信任。<br>有直观的照片可以用来审核，纹身的真实性可以保证。'
+  translation: '使纹身艺术家获得认同感，展示身份，提高身价。<br><br>面对未知的下一个纹身来源，客户可以付出更多信任。<br>有直观的照片可以用来审核，纹身的真实性可以保证。'
 - id: main.buttonText
   translation: "我想知道多一些!"
 
@@ -20,42 +20,39 @@
 - id: about.headline
   translation: "纹身是永久的。"
 - id: about.subtitle
-  translation: "纹身艺术家的作品集不也应该永久吗？"
+  translation: "纹身作品集也可以是永久的。"
 - id: about.description
-  translation: "Gogo Tattoo 使用区块链技术为纹身艺术家创建一个永久的档案，为纹身艺术家证明创意所有权，也为拥有此纹身的人记录下此纹身的寓意。我们的分散的平台提供艺术家们机会去展示他们的设计，世界各地的纹身爱好者的技术和当地的纹身工作室的水平完全透明化，为客户的利益和创作者的版权，提供了前所未有的保证一个不留遗憾的纹身体验。"
-- id: about.buttonText
-  translation: "开始用!"
+  translation: "Gogo Tattoo 使用区块链技术创建一个牢不可破的永久的档案，为纹身艺术家证明创意所有权，也为拥有此纹身的人记录下此纹身的寓意。"
+- id: about.description2
+  translation: "我们的分散的平台提供艺术家们机会去展示他们纹身才能，世界各地的纹身爱好者的技术和当地的纹身工作室的水平完全透明化，为客户的利益和创作者的版权，提供了前所未有的保证。每一次纹身都可以是一次不留遗憾的体验。"
 
   # features
 - id: services.headline
-  translation: "Gogo Tattoo 哪有很酷？"
+  translation: "Gogo Tattoo 为什么很酷？"
 - id: service.item1
   translation: "帮助艺术家脱颖而出"
 - id: service.desc1
-  translation: "纹身艺术家应该得到承认，并把他们的设计纹在最欣赏他们作品的人身上。传统的商业模式提供了一条让缺乏创造力的人去复制的别人的纹身作品并声称是自己作品的途径。
-对等的数字连接采用最新的区块链认证技术真正的为艺术家完全证明了他们的创造力，并把他们和全球范围内的潜在客户在以无法想象的方式联结。"
+  translation: "纹身艺术家应该得到认可，并把他们的设计纹在最欣赏他们作品的人身上。我们的对等数字连接区块链技术可以把艺术家和全球范围内的潜在客户以无法想象的方式相联结。"
 - id: service.item2
   translation: "让纹身无忧"
 - id: service.desc2
-  translation: "纹身的经历是永久的，没有人想要一个永久的遗憾。Gogo Tattoo 去除了几乎所有让纹身艺术家和任命他们在自己身上完成作品的人之间的所有相互不信任的理由。我们被区块链所担保的市场允许消费者浏览艺术家的档案，我们有绝对的信心，承诺艺术家想展现的是可以被传达的。"
+  translation: "纹身是永久的，没有人会想要一个永久的遗憾。我们被区块链所担保的市场允许客户浏览艺术家的真实档案，我们有绝对的信心，承诺客户所选择的艺术家想展现的是可以被传达的。"
 - id: service.item3
-  translation: "把纹身的世界变得更好"
+  translation: "使纹身店保持兴隆"
 - id: service.desc3
-  translation: "牢不可破的信任不只是了增进了传统的纹身体验。它使纹身的体验变得前所未有。对于艺术家来说，这意味着全新方式的创造力、市场和工作执照。对于消费者来说，这意味着有机会在任何地点找到合适自己的艺术家，并联结到纹身社区查看他人的经验，这里只提到了一些可能性…"
+  translation: "让纹身店成为一个让更多客户遇见优秀纹身艺术家的地方，并让纹身店的资料页面在区块链技术支持的网络内升级。当您的店需要新鲜的人才时，她/他总是可以在Gogo Tattoo找到你。"
 
 # Aside
 - id: cta.headline
-  translation: "参加区块链纹身革命!"
-- id: cta.explanation
-  translation: "更多详情敬请期待..."
+  translation: "参加区块链纹身革命！"
 - id: cta.buttonText
-  translation: "参加!"
+  translation: "现在就加入!"
 
 # Maillist
 - id: maillist.headline
-  translation: "订阅更新"
+  translation: "你是否愿意订阅更新呢？"
 - id: maillist.explanation
-  translation: "请放心，我们绝对不会向您发送垃圾邮件，只有高质量推送"
+  translation: "成为第一个知晓 gogo.tattoo 发展进程的人"
 - id: maillist.buttonText
   translation: "订阅"
 - id: maillist.placeholder
@@ -65,7 +62,7 @@
 - id: contact.headline
   translation: "联系我们!"
 - id: contact.description
-  translation: "Gogo Tattoo 是个新的项目! 如果你想贡献你的时间或者对项目有兴趣，通过这些联系方式联系我们"
+  translation: "准备好帮助我们发展未来纹身产业链了吗？你可以在Slack上加入我们，在推特上关注我们，或者在Github上查看代码！"
 
 # projects
 - id: pr1.title

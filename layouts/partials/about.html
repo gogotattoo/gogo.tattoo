@@ -2,17 +2,20 @@
 <section class="bg-primary" id="about">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
+            <div class="col-lg-8 col-lg-offset-4 col-md-offset-4 col-sm-offset-6">
                 {{ with .Site.Params.about.headline }}
                     <h2 class="section-heading">{{ i18n . }}</h2>
                 {{ end }}
                 {{ with .Site.Params.about.subtitle }}
-                    <h3 class="section-heading">{{ i18n . }}</h3>
+                    <h3 class="section-heading text-center">{{ i18n . }}</h3>
                 {{ end }}
                 {{ if and .Site.Params.about.headline .Site.Params.about.description }}
                     <hr class="light">
                 {{ end }}
                 {{ with .Site.Params.about.description }}
+                    <p class="text-faded">{{ i18n . | markdownify }}</p>
+                {{ end }}
+                {{ with .Site.Params.about.description2 }}
                     <p class="text-faded">{{ i18n . | markdownify }}</p>
                 {{ end }}
                 {{ with .Site.Params.about.buttonText }}
