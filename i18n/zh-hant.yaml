@@ -1,0 +1,95 @@
+# Landing
+- id: main.slogan
+  translation: "我們的使命是<br>創建更好的紋身世界"
+- id: main.subtitle
+  translation: '使紋身藝術家獲得認同感，展示身份，提高身價。<br><br>面對未知的下一個紋身來源，客戶可以付出更多信任。<br>有直觀的照片可以用來稽核，紋身的真實性可以保證。'
+- id: main.buttonText
+  translation: "我想知道多一些!"
+
+# Navigation
+- id: nav.about
+  translation: "關於"
+- id: nav.services
+  translation: "功能"
+- id: nav.portfolio
+  translation: "項目"
+- id: nav.contact
+  translation: "聯繫"
+
+# About
+- id: about.headline
+  translation: "紋身是永久的。"
+- id: about.subtitle
+  translation: "紋身作品集也可以是永久的"
+- id: about.description
+  translation: "Gogo Tattoo 使用區塊鏈科技創建一個牢不可破的永久的檔案，為紋身藝術家證明創意所有權，也為擁有此紋身的人記錄下此紋身的寓意。"
+- id: about.description2
+  translation: "我們的分散的平臺提供藝術家們機會去展示他們紋身才能，世界各地的紋身愛好者的科技和當地的紋身工作室的水准完全透明化，為客戶的利益和創作者的版權，提供了前所未有的保證。每一次紋身都可以是一次不留遺憾的體驗。"
+
+  # features
+- id: services.headline
+  translation: "Gogo Tattoo 為什麼很酷？"
+- id: service.item1
+  translation: "幫助藝術家脫穎而出"
+- id: service.desc1
+  translation: "紋身藝術家應該得到認可，並把他們的設計紋在最欣賞他們作品的人身上。我們的對等數位連接區塊鏈科技可以把藝術家和全球範圍內的潛在客戶以無法想像的管道相聯結。"
+- id: service.item2
+  translation: "讓紋身無憂"
+- id: service.desc2
+  translation: "紋身是永久的，沒有人會想要一個永久的遺憾。我們被區塊鏈所擔保的市場允許客戶瀏覽藝術家的真實檔案，我們有絕對的信心，承諾客戶所選擇的藝術家想展現的是可以被傳達的。"
+- id: service.item3
+  translation: "使紋身店保持興隆"
+- id: service.desc3
+  translation: "讓紋身店成為一個讓更多客戶遇見優秀紋身藝術家的地方，並讓紋身店的資料頁面在區塊鏈技術支援的網絡內陞級。當您的店需要新鮮的人才時，她/他總是可以在 Gogo Tattoo 找到你。"
+
+# Aside
+- id: cta.headline
+  translation: "參加區塊鏈紋身革命！"
+- id: cta.buttonText
+  translation: "現在就加入！"
+
+# Maillist
+- id: maillist.headline
+  translation: "你是否願意訂閱更新呢？"
+- id: maillist.explanation
+  translation: "成為第一個知曉 gogo.tattoo 發展行程的人"
+- id: maillist.buttonText
+  translation: "訂閱"
+- id: maillist.placeholder
+  translation: "email"
+
+# Contact
+- id: contact.description
+  translation: "準備好幫助我們發展未來紋身產業鏈了嗎？你可以在Slack上加入我們，在推特上關注我們，或者在Github上查看程式碼！"
+
+# projects
+- id: pr1.title
+  translation: |
+    Gogo Tattoo 生日快樂！<br><br>
+    紋身革命在這裡開始
+- id: pr1.description
+  translation: >
+    gogo.tattoo 今天正式誕生了！！
+    <br/><br/>我們很驕傲我們能够開始運行我們的alpha頁面。並期待著把我們幕後發展的新聞消息展示給你。
+    <br/><br/>到目前為止，我們的社區正在成型並且為了未來的趨勢奠定了一個動態的基礎。在未來幾個月裏，Gogo Tattoo項目將鞏固作為世界各地的有才華的藝術家們和紋身愛好者聚集地。在這裡，牢不可破的信任和完全的透明化將成為每一次創造者和客戶連接的標準。
+    <br/><br/>同時，我們歡迎在紋身世界志同道合的朋友和潜在的貢獻者和投資人和我們聯系。如果你喜歡我們正在幹的事，現在是時候和我們聯系，看看你可以如何成為我們的一份子！
+    <br/><br/>我們的眼界看向未來，未來届時定會像今天一樣慶祝。紋身革命現在開始！
+    <br/>我們希望你會成為它的一部分。
+    <br/><br/><br/>
+      乾杯，朋友，
+      <br/><br/><br/>
+      Gogo Tattoo 團隊
+
+
+- id: pr2.title
+  translation: |
+    讓我們一步一脚印
+- id: pr2.description
+  translation: >
+    在過去幾個月裏，在區塊鏈的世界裏發生了許多令人興奮的新聞，這些迷人又可怕的新聞吸引了我們的注意。智慧合約正在蓬勃發展，這一强大的新機制正獲得更廣泛的關注，但同時此機制的效能問題造成了一些諸如<a href="https://www.cryptocoinsnews.com/ethereums-blockchain-accidentally-splits/" target="_blank">以太坊區塊鏈的最新分支</a>之類的讓人緊張不安問題。我們所有的人都在密切注視。
+    <br/><br/>
+    針對上述情况，gogo.tattoo正在<a href="http://blog.akasha.world/2016/09/30/launch-imminent/" target="_blank">密切監測</a>在對等網絡生態系統中的大環境，並繼續前進與發展。我們覺得更重要的是要用長遠的眼光看前面的路，而不是不顧一切的輕率開始行動。我們正在進入一個還沒有被科技人員知根知底的全新領域—讓想法變成現實的區塊鏈。
+    <br/><br/>
+    我們很高興我們正在建設發展中，其中的項目包括建設我們的<a href="/gogo">紋身藝術家簡介頁</a>，在那裡，你將能够將你的工作作為去中心化的一部分展示。這是世界各地的藝術家和紋身愛好者的網絡。我們非常期待能為您帶來這一切。我們一如既往希望有志同道合的人可以一起合作。
+      <br/><br/><br/>
+      Gogo Tattoo 團隊
