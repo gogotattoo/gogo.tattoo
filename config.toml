@@ -10,10 +10,13 @@ DefaultContentLanguage = "en"
     weight = 1
     title = "gogo.tattoo (Alpha)"
   [Languages.zh]
-    weight = 2
+    weight = 3
     title = "gogo.tattoo (Alpha)"
   [Languages.zh-hant]
-    weight = 3
+    weight = 2
+    title = "gogo.tattoo (Alpha)"
+  [Languages.ru]
+    weight = 2
     title = "gogo.tattoo (Alpha)"
 
 [params]
