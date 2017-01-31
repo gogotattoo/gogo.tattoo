@@ -243,9 +243,7 @@ header .header-content .header-content-inner p {
     header {
         min-height: 100%;
     }
-    .post-header {
-        min-height: 33%;
-    }
+
     header .header-content {
         position: absolute;
         top: 50%;
@@ -275,7 +273,9 @@ header .header-content .header-content-inner p {
         font-size: 18px;
     }
 }
-
+.post-header {
+    min-height: 33%;
+}
 .section-heading {
     margin-top: 0;
 }
@@ -585,8 +585,8 @@ body {
   align-self: center;
 }
 main {
-  padding-top: 3em;
+  padding: 2em;
   margin: 0 auto;
-  max-width: 808px;
+  max-width: 508px;
   align-content: center;
 }
