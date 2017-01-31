@@ -1,7 +1,8 @@
+---
 modalID: 3
 title: pr3.title
-date: 2016-12-17
+date: 2017-12-17
 img: 2016.png
-clientLink: "2016-12-17-annual-summary"
 category: Announcement
 description: pr3.description
+---

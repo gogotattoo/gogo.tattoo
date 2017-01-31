@@ -243,7 +243,9 @@ header .header-content .header-content-inner p {
     header {
         min-height: 100%;
     }
-
+    .post-header {
+        min-height: 33%;
+    }
     header .header-content {
         position: absolute;
         top: 50%;
@@ -252,7 +254,14 @@ header .header-content .header-content-inner p {
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
     }
-
+    header .post-header-content {
+        position: absolute;
+        top: 50%;
+        padding: 0 30px;
+        -webkit-transform: translateY(-20%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
     header .header-content .header-content-inner {
         margin-right: auto;
         margin-left: auto;
@@ -574,4 +583,10 @@ body {
 }
 .contact-text i {
   align-self: center;
+}
+main {
+  padding-top: 3em;
+  margin: 0 auto;
+  max-width: 808px;
+  align-content: center;
 }
