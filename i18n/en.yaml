@@ -150,11 +150,11 @@
     Starting a busy year
 - id: pr4.description
   translation: |
+    ---------------------
     The new year finds us introducing a bunch of new features as we continue
     documenting our artists’ awesome new tattoos and researching our way forward.
     On the tech side, there are quite a few attractive new features on our site.
     First, we made our announcement posts separate pages with their own links:
-
 
       - [gogo.tattoo/post/2016-11-27-vision](http://gogo.tattoo/post/2016-11-27-vision)
       - [gogo.tattoo/post/2016-12-17-annual-summary](http://gogo.tattoo/post/2016-12-17-annual-summary)
@@ -192,16 +192,19 @@
       - [gogo.tattoo/gogo/design](http://gogo.tattoo/gogo/design)
 
     <h3>Github repository is alive</h3>
+
     For programmers and other collaborators looking to get involved at gogo.tattoo,
     [our github repo](http://github.com/gogotattoo) is filling up with ongoing updates
     on our progress and development. The demo/alpha version of the artists’ page is now open sourced.
 
     <h3>Gogo-upload</h3>
+
     [Gogo-upload](http://github.com/gogotattoo/gogo-upload) is an utility written in golang.
     It aims to add labeled watermarks, resize photos and upload
     the edited files to IPFS. It is half ready. We invite you to contibute.
 
     <h3>In other news… steemit noticed us</h3>
+
     We were the lucky number 8 at steemit in the daily curie best posts selection list.
 
       - [steemit.com/curation/@curie/the-daily-curie-22-23-jan-2017](https://steemit.com/curation/@curie/the-daily-curie-22-23-jan-2017)
@@ -213,6 +216,7 @@
     The process is documented in our demo/alpha website.
 
     <h3>...and we’d also like to mention the UN olive branch</h3>
+
     The other day a UN secretary-to-be collaborated with us for an olive branch tattoo design.
     Proud to be spreading the message of peace in these times!
 
