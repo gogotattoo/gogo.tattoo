@@ -74,7 +74,8 @@
     Gogo Tattoo launches!<br><br>
     The tattoo (r)evolution begins
 - id: pr1.description
-  translation: >
+  translation: |
+    ---------------------
     gogo.tattoo was officially born today!
     <br/><br/>We're proud to have our alpha site up and running and looking forward to bringing you news of the developments underway.
     <br/><br/>So far our community is taking form and we've laid a dynamic groundwork for what's to come. In the months ahead the Gogo Tattoo Project will solidify as the definitive home for talented artists and tattoo enthusiasts worldwide, where unbreakable trust and total transparency will be the standard every time creators and clients connect.
@@ -91,6 +92,7 @@
     How we are tackling the road ahead...
 - id: pr2.description
   translation: |
+    ---------------------
     There's been a lot of exciting news in the blockchain world these past few months,
     fascinating as well as frightening those of us who have been following.
     Interest in smart contacts is booming as this powerful new mechanism gains wider attention,
@@ -116,6 +118,7 @@
     Where the New Year finds us
 - id: pr3.description
   translation: |
+    ---------------------
     If you've been following gogo.tattoo since our launch this year you probably have some idea of how our
     mission is coming into focus. On the one hand the task before us is to develop the platform
     that will connect tattoo experiences with the incredible possibilities blockchain is enabling us to

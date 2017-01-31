@@ -12,12 +12,9 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <a href="{{.Site.BaseUrl}}/post/{{ .clientLink }}">
+                        <a href="{{  absLangURL (print "post/" .clientLink) }}">
                           <h2>{{ i18n .title | markdownify }}</h2>
                         </a>
-                        {{ if and .title .description }}
-                            <hr class="star-primary">
-                        {{ end }}
                         <!--<img src="{{ $.Site.BaseURL }}/img/post/{{ .img }}" class="img-responsive img-centered" alt="">-->
                         {{ with .description }}
                             <p>{{ i18n . | markdownify }}</p>

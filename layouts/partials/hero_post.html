@@ -1,16 +1,17 @@
 {{ "<!-- HEADER -->" | safeHTML }}
 <header class="post-header">
     <div class="header-content">
+      <a href="{{ "/" | absLangURL }}">
         <div class="header-content-inner">
             {{ with .Site.Params.hero.slogan }}
                 <h1>{{ i18n . | markdownify  }}</h1>
             {{ end }}
             {{ if and .Site.Params.hero.slogan .Site.Params.hero.subtitle }}
-                <hr>
             {{ end }}
             {{ with .Site.Params.hero.subtitle }}
                 <p><b>{{ i18n . | markdownify }}</b></p>
             {{ end }}
         </div>
+      </a>
     </div>
 </header>

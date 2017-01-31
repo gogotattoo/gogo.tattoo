@@ -221,6 +221,10 @@ header .header-content {
     text-align: center;
 }
 
+.post-header > .header-content > a, a:link, a:visited, a:hover{
+    text-decoration: none;
+}
+
 header .header-content .header-content-inner h1 {
     margin-top: 0;
     margin-bottom: 0;
