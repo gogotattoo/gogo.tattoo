@@ -22,7 +22,7 @@
 - id: about.subtitle
   translation: "Now your portfolio can be too."
 - id: about.description
-  translation: "Gogo Tattoo Project uses blockchain technology to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios."
+  translation: "Gogo Tattoo Project uses IPFS, blockchain, smart-contracts and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios."
 - id: about.description2
   translation: "Our decentralized platform enables artists to showcase their designs to tattoo enthusiasts worldwide. They can then connect locally at the studio level with total transparency for client and creator alike, guaranteeing a regret-free tattoo experience."
 - id: about.buttonText
