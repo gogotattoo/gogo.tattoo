@@ -97,7 +97,7 @@ section {
 }
 
 aside {
-    padding: 50px 0;
+    padding-bottom: 50px;
 }
 
 .no-padding {
@@ -361,7 +361,7 @@ header .header-content .header-content-inner p {
 }
 
 .call-to-action h2 {
-    margin: 0 auto 20px;
+    margin: 50px auto 20px;
 }
 
 .text-primary {

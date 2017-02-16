@@ -65,7 +65,7 @@
 - id: contact.headline
   translation: "Let's get in touch!"
 - id: contact.description
-  translation: "Ready to help develop the future of the tattoo industry? Join us on Slack, follow us on twitter, or watch us on github!"
+  translation: "Ready to help develop the future of the tattoo industry? Join us on Slack, follow us on twitter, or fork us on github!"
 
 
 # projects
