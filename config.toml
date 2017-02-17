@@ -1,4 +1,4 @@
-baseurl = "http://gogo.tattoo"
+baseurl = "https://gogotattoo.github.io"
 languageCode = "en-us"
 title = "gogo.tattoo"
 googleAnalytics = "UA-79234406-1"
