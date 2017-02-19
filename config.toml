@@ -21,6 +21,12 @@ DefaultContentLanguage = "en"
   [Languages.ja]
     weight = 3
     title = "gogo.tattoo (Alpha)"
+  [Languages.sv]
+    weight = 4
+    title = "gogo.tattoo (Alpha)"
+  [Languages.es]
+    weight = 4
+    title = "gogo.tattoo (Alpha)"
 
 [params]
 
