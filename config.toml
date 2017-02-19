@@ -18,6 +18,15 @@ DefaultContentLanguage = "en"
   [Languages.ru]
     weight = 2
     title = "gogo.tattoo (Alpha)"
+  [Languages.ja]
+    weight = 3
+    title = "gogo.tattoo (Alpha)"
+  [Languages.sv]
+    weight = 4
+    title = "gogo.tattoo (Alpha)"
+  [Languages.es]
+    weight = 4
+    title = "gogo.tattoo (Alpha)"
 
 [params]
 
@@ -121,3 +130,4 @@ DefaultContentLanguage = "en"
     slack = "http://gogotattoo.slack.com"
     twitter = "http://twitter.com/gogo_tattoo"
     ryver = "http://gogotattoo.ryver.com"
+    steemit = "gogo.tattoo"

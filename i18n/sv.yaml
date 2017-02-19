@@ -1,0 +1,250 @@
+# Landing
+- id: main.slogan
+  translation: "Vårt mål är att göra världen bättre med våra tatoeringar"
+- id: main.subtitle
+  translation: "Recognition for artists, trust for clients, authenticity for tattoos"
+- id: main.buttonText
+  translation: "Learn more"
+
+#Navigation
+- id: nav.about
+  translation: "About"
+- id: nav.services
+  translation: "Services"
+- id: nav.portfolio
+  translation: "Portfolio"
+- id: nav.contact
+  translation: "Contact"
+
+# About
+- id: about.headline
+  translation: "Tattoos are permanent."
+- id: about.subtitle
+  translation: "Now your portfolio can be too."
+- id: about.description
+  translation: "Gogo Tattoo Project uses IPFS, blockchain, smart-contracts and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios."
+- id: about.description2
+  translation: "Our decentralized platform enables artists to showcase their designs to tattoo enthusiasts worldwide. They can then connect locally at the studio level with total transparency for client and creator alike, guaranteeing a regret-free tattoo experience."
+- id: about.buttonText
+  translation: "Get started!"
+
+  # features
+- id: services.headline
+  translation: "What we're about"
+- id: service.item1
+  translation: "Helping artists stand out"
+- id: service.desc1
+  translation: "Tattoo artists deserve recognition and the chance to connect with the people who would be happiest wearing their work. Peer-to-peer connectivity using blockchain technology gives you the chance to showcase your work to clients worldwide in ways never before imaginable."
+- id: service.item2
+  translation: "Making tattoos worry-free"
+- id: service.desc2
+  translation: "Tattoo experiences are permanent, and no one wants a permanent regret. Our blockchain-secured marketplace allows you to browse artists’ portfolios without worrying whether the work promised there can be delivered."
+- id: service.item3
+  translation: "Connecting shops with artists"
+- id: service.desc3
+  translation: "Being able to link up with artists on gogo.tattoo means the chance to bring in fresh talent when your studio needs it. Be a place where more clients meet better artists to raise your profile with blockchain powered networking."
+
+# Call to action
+- id: cta.headline
+  translation: "Join the Blockchain Tattoo (R)evolution"
+- id: cta.explanation
+  translation: "Gogo Tattoo is developing non-stop. Check back for updates..."
+- id: cta.buttonText
+  translation: "Get Involved!"
+
+# Maillist
+- id: maillist.headline
+  translation: "Let us know if you would like to receive updates"
+- id: maillist.explanation
+  translation: "Be the first to know about developments at gogo.tattoo."
+- id: maillist.buttonText
+  translation: "Subscribe"
+- id: maillist.placeholder
+  translation: "email"
+# Contact
+- id: contact.headline
+  translation: "Let's get in touch!"
+- id: contact.description
+  translation: "Ready to help develop the future of the tattoo industry? Join us on Slack, follow us on twitter, or fork us on github!"
+
+
+# projects
+- id: pr1.title
+  translation: |
+    Gogo Tattoo launches!<br><br>
+    The tattoo (r)evolution begins
+- id: pr1.description
+  translation: |
+    ---------------------
+    gogo.tattoo was officially born today!
+    <br/><br/>We're proud to have our alpha site up and running and looking forward to bringing you news of the developments underway.
+    <br/><br/>So far our community is taking form and we've laid a dynamic groundwork for what's to come. In the months ahead the Gogo Tattoo Project will solidify as the definitive home for talented artists and tattoo enthusiasts worldwide, where unbreakable trust and total transparency will be the standard every time creators and clients connect.
+    <br/><br/>Meanwhile we are welcoming early involvement from potential contributors and future-minded contacts in the tattoo world. If you like what we're about, now is the time to get in touch and see how you can be a part of what we do!
+    <br/><br/>Our eyes are on the future as we celebrate today. The tattoo revolution begins now! We hope you'll come be part of it.
+    <br/><br/><br/>
+      Cheers,
+      <br/><br/><br/>
+      [The Gogo Tattoo Team](/)
+
+
+- id: pr2.title
+  translation: |
+    How we are tackling the road ahead...
+- id: pr2.description
+  translation: |
+    ---------------------
+    There's been a lot of exciting news in the blockchain world these past few months,
+    fascinating as well as frightening those of us who have been following.
+    Interest in smart contacts is booming as this powerful new mechanism gains wider attention,
+    while performance issues with consequences like <a href="https://www.cryptocoinsnews.com/ethereums-blockchain-accidentally-splits/" target="_blank">Ethereum's latest split</a> have many on edge
+    and all of us watching closely.
+    <br/><br/>
+    In response to these developments gogo.tattoo is going ahead with development as
+    planned while <a href="http://blog.akasha.world/2016/09/30/launch-imminent/" target="_blank">closely monitoring</a> the general environment in the peer to peer ecosystem. We feel it is important to take the long view of the road ahead, and not rush recklessly
+    into new territory until more is understood about making ideas into realities with blockchain.
+    <br/><br/>
+    Projects we are excited to have in development include our <a href="/gogo">tattoo artist profile page</a>,
+    where you will be able to showcase your work as part of a decentralized
+    network of artists and tattoo enthusiasts around the world. We look forward to bringing you all this
+    and more in the days to come, and as usual hope to hear from you about opportunities to collaborate.
+    <br/><br/>
+      Cheers,
+      <br/><br/>
+      [The Gogo Tattoo Team](/)
+
+
+- id: pr3.title
+  translation: |
+    Where the New Year finds us
+- id: pr3.description
+  translation: |
+    ---------------------
+    If you've been following gogo.tattoo since our launch this year you probably have some idea of how our
+    mission is coming into focus. On the one hand the task before us is to develop the platform
+    that will connect tattoo experiences with the incredible possibilities blockchain is enabling us to
+     build for. On the other hand, we are working to grow our presence in the tattoo world organically,
+      beginning from local connections with studios and artists who realize the potential of what we're
+      working toward.
+
+      The latest news is all exciting, whether you care most about tattoos or the tech that will change
+      how they're made forever. We're working from an undisclosed location in an exciting city, where
+      major players in the blockchain world are looking to invest their time, energy, and focus
+      in projects that will take the revolution live. Coupled with promising attention in blockchain
+      circles, the welcome we've earned with people who make their lives and livings in tattoo craft
+      is driving our vision to reality in ways we never expected so soon. It was a major milestone to
+      publish proof of work live from a tattoo session for the first time this month. Just as thrilling are the ways this experience continues
+        to shed light on how gogo.tattoo can simultaneously benefit artists, their clients, and the studios where
+        they meet. We've always known what we could do for people, but it means something more to
+        hear it back.
+
+      We're thrilled to be going into a new year with the enthusiasm of the people we're working for
+      behind us. It's been a short, fast, wild ride through a horizon we are helping to push. What comes
+      next is as sure to amaze as it is to surpise and enlighten us with what's to come. We look forward to a new year changing the world together from our unlikely
+      corner of the creative world.
+
+
+      Cheers,
+      <br/><br/>
+      [The Gogo Tattoo Team](/)
+
+
+- id: pr4.title
+  translation: |
+    Starting a busy year
+- id: pr4.description
+  translation: |
+    ---------------------
+    The new year finds us introducing a bunch of new features as we continue
+    documenting our artists’ awesome new tattoos and researching our way forward.
+    On the tech side, there are quite a few attractive new features on our site.
+    First, we made our announcement posts separate pages with their own links:
+
+      - [gogo.tattoo/post/2016-11-27-vision](http://gogo.tattoo/post/2016-11-27-vision)
+      - [gogo.tattoo/post/2016-12-17-annual-summary](http://gogo.tattoo/post/2016-12-17-annual-summary)
+
+
+    Meanwhile tattoo artists’ personal pages are looking better and better all
+    the time. We think the Year of the Rooster is a great occasion to update
+    our community on what’s been going on and where we are looking next by
+    introducing some links to our latest features.
+
+    <h3>Tags are up</h3>
+
+    Tattoos are now tagged so visitors can find and follow artists based on
+    their interests, making it easier for artists to reach the right
+    audiences with their expertise and work history. Artists’ profile pages
+    will show their tags right at the top of the page, and tattoo pages will
+    show tags just below the image.
+
+    Going forward visitors on gogo.tattoo will have an easy way of finding
+    the artists who specialize in the kinds of designs they’re looking for,
+    bringing us a huge step closer to realizing the transparent,
+    human marketplace we envision gogo.tattoo becoming.
+
+      - [gogo.tattoo/gogo/tags/dragon](http://gogo.tattoo/gogo/tags/dragon)
+      - [gogo.tattoo/aid/tags/color](http://gogo.tattoo/aid/tags/color)
+      - [gogo.tattoo/gogo/tags/watercolor](http://gogo.tattoo/gogo/tags/watercolor)
+      - [//gogo/tattoo/anchored_infinity_moon](http://gogo.tattoo/gogo/tattoo/anchored_infinity_moon)
+
+    <h3>New Design section: Link for ink</h3>
+
+    Another way we’re helping connect great artists and the people who will enjoy
+    their work is our new design section. It’s the place to showcase the work
+    you’re looking to make next and get recognition for your creativity.
+
+      - [gogo.tattoo/gogo/design](http://gogo.tattoo/gogo/design)
+
+    <h3>Github repository is alive</h3>
+
+    For programmers and other collaborators looking to get involved at gogo.tattoo,
+    [our github repo](http://github.com/gogotattoo) is filling up with ongoing updates
+    on our progress and development. The demo/alpha version of the artists’ page is now open sourced.
+
+    <h3>Gogo-upload</h3>
+
+    [Gogo-upload](http://github.com/gogotattoo/gogo-upload) is an utility written in golang.
+    It aims to add labeled watermarks, resize photos and upload
+    the edited files to IPFS. It is half ready. We invite you to contibute.
+
+    <h3>In other news… steemit noticed us</h3>
+
+    We were the lucky number 8 at steemit in the daily curie best posts selection list.
+
+      - [steemit.com/curation/@curie/the-daily-curie-22-23-jan-2017](https://steemit.com/curation/@curie/the-daily-curie-22-23-jan-2017)
+      - [steemit.com/art/@gogo.tattoo/gogo-tattoo-design-tattoo](https://steemit.com/art/@gogo.tattoo/gogo-tattoo-design-tattoo)
+      - [gogo.tattoo/gogo/design/pans_compass](http://gogo.tattoo/gogo/design/pans_compass)
+      - [gogo.tattoo/gogo/tattoo/pans_compass](http://gogo.tattoo/gogo/tattoo/pans_compass)
+
+    Check out how our recent steemit promoted design found a happy owner.
+    The process is documented in our demo/alpha website.
+
+    <h3>...and we’d also like to mention the UN olive branch</h3>
+
+    The other day a UN secretary-to-be collaborated with us for an olive branch tattoo design.
+    Proud to be spreading the message of peace in these times!
+
+      - [steemit.com/art/@gogo.tattoo/gogo-tattoo-fine-lines](https://steemit.com/art/@gogo.tattoo/gogo-tattoo-fine-lines)
+      - [gogo.tattoo/gogo/tattoo/olive_branch](http://gogo.tattoo/gogo/tattoo/olive_branch)
+
+    Artist Valentin also updated the collection of work he’s documenting with us:
+
+      - [gogo.tattoo/aid](http://gogo.tattoo/aid)
+
+    Going forward we would like to begin connecting with people interested
+    in helping us document work at greater distances worldwide,
+    and hope to speak more with photographers and tattoo people interested
+    in getting great work recognized at its most beautiful.
+
+    We continue to follow the progress at projects like [colony.io](https://blog.colony.io/colony-q1-update-b386425e0a00#.ns7jb5ggu),
+    [akasha](http://blog.akasha.world/2017/01/16/into-the-ether/),
+    [ark.io](https://blog.ark.io/the-ark-tec-is-over-prepare-to-board-the-ark-e40d7f90ace9#.6647a91y4),
+    waves, lisk, and never miss a chance to [check up](https://blog.ethereum.org)
+    on developments at Ethereum, among others.
+
+    Our community is growing fast and worldwide.
+
+    Keep checking back for news!
+
+    Happy New Year,
+
+    [The Gogo Tattoo Team](/)
