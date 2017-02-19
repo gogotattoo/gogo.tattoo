@@ -27,10 +27,16 @@
                     <p class="contact-text"><a href="{{ .Site.Params.contact.twitter }}" target="_blank">Follow us on Twitter!</a></p>
                 </div>
             {{ end }}
-            {{ if .Site.Params.contact.ryver }}
+            <!-- {{ if .Site.Params.contact.ryver }}
                 <div class="col-lg-3 text-center contact-text">
                     <i class="fa fa-weixin fa-3x wow bounceIn"></i>
                     <p><a href="{{ .Site.Params.contact.ryver }}" target="_blank">Join us on Ryver!</a></p>
+                </div>
+            {{ end }} -->
+            {{ with .Site.Params.contact.steemit }}
+                <div class="col-lg-3 text-center contact-text">
+                    <i class="fa fa-weixin fa-3x wow bounceIn"></i>
+                    <p><a href="https://steemit.com/@{{ . }}" target="_blank">Vote for us on Steemit!</a></p>
                 </div>
             {{ end }}
             {{ if .Site.Params.contact.email }}
