@@ -9,8 +9,25 @@
                 <hr>
             {{ end }}
             {{ with .Site.Params.hero.subtitle }}
-                <p><b>{{ i18n . | markdownify }}</b></p>
+                <div id="subtitle">{{ i18n . | markdownify }}</div>
             {{ end }}
+            <div class="row">
+              <div class="col-md-4 col-lg-4 center-block avatar-small">
+                <a href="{{ "/aid" | urlize }}">
+                  <img class="center-block" src="http://gogo.tattoo/aid/images/aid.png"/>
+                </a>
+              </div>
+                <div class="col-md-4 col-lg-4 center-block avatar">
+                  <a href="{{ "/gogo" | urlize }}">
+                    <img class="center-block" src="http://gogo.tattoo/gogo/images/gogo.jpg"/>
+                  </a>
+                </div>
+                  <div class="col-md-4 col-lg-4 center-block avatar-small">
+                <a href="{{ "/xizi" | urlize }}">
+                  <img class="center-block" src="http://gogo.tattoo/xizi/images/xizi.jpg"/>
+                </a>
+              </div>
+            </div>
             {{ with .Site.Params.hero.btn }}
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">{{ i18n . | markdownify }}</a>
             {{ end }}
