@@ -1,4 +1,4 @@
-# Landing
+    # Landing
 - id: main.slogan
   translation: "我們的使命是<br>創建更好的紋身世界"
 - id: main.subtitle
@@ -111,3 +111,158 @@
     祝好
 
     Gogo Tattoo團隊
+
+
+- id: pr4.title
+  translation: |
+    開始忙碌的新一年
+- id: pr4.description
+  translation: |
+    ----------------------
+    在這良辰雞年，為了繼續為我們的藝術家們紀錄炒雞棒的紋身作品，為了在研究的道路上大步向前，
+    我們將要為大家介紹一大堆新的功能。在技​​術方面，網站添加了一些吸引人的新功能。
+
+    首先，公告頁面可以有帶有自己鏈接的單獨頁面了:
+
+    - [gogo.tattoo/post/2016-11-27-vision](http://gogo.tattoo/post/2016-11-27-vision)
+    - [gogo.tattoo/post/2016-12-17-annual-summary](http://gogo.tattoo/post/2016-12-17-annual-summary)
+
+    同時，紋身藝術家們的個人頁面也變得越來越好看了。我們覺得雞年是一個非常好的時間來讓我們在原有的基礎上優化我們的社區。
+    我們現在的目標是在一些鏈接裡介紹我們的最新功能。
+
+    頂端的標籤
+    ========
+
+    紋身作品現在都帶有標籤了，所以來訪者可以按照自己的標籤喜好來找到並關注相應紋身藝術家，
+    也可以讓紋身藝術家更加容易的在自己的工作歷史裡找到有關標籤的相應紋身作品。
+    標籤會在藝術家的個人頁面頂端和紋身作品頁面的底部顯示。
+
+    訪問gogo.tattoo的用戶們可以使用這個簡易的功能輕鬆找到他們正在尋覓的設計樣式，
+    和擅長此類樣式的藝術家。在透明化紋身樣式偏好的趨勢裡我們因此而前進了巨大一步，
+    使gogo.tattoo向我們設想的方向發展。
+
+    - [gogo.tattoo/gogo/tags/dragon](http://gogo.tattoo/gogo/tags/dragon)
+    - [gogo.tattoo/aid/tags/color](http://gogo.tattoo/aid/tags/color)
+    - [gogo.tattoo/gogo/tags/watercolor](http://gogo.tattoo/gogo/tags/watercolor)
+    - [//gogo/tattoo/anchored_infinity_moon](http://gogo.tattoo/gogo/tattoo/anchored_infinity_moon)
+
+    全新的紋身手稿頁面
+    ===============
+
+    這是另一個幫助我們的藝術家與在此頁面上欣賞他們作品的來訪者們相連接的方法。
+    這是一個可以讓藝術家的創作更有辨識度並讓藝術家們展示他們下一個想要製作的紋身作品的手稿的地方。
+
+    - [gogo.tattoo/gogo/design](/gogo/design)
+
+    Github 代碼庫是可用的
+    ==================
+
+    對於想要加入gogo.tattoo的程序員們和尋求合作的伙伴們來說，我們的[Github](http://github.com/gogotattoo)代碼庫裡充滿了我們網站建設中的更新和進程。
+    網站demo/alpha版本 裡的藝術家頁面現在是開源的。
+
+    Gogo-upload
+    ===========
+
+    [Gogo-upload](http://github.com/gogotattoo/gogo-upload)是用Golang寫的程序。它的目的是為照片添加帶有標記的水印，調整其大小並上傳到IPFS。
+    此程序已經完成了一半了，我們邀請您來促進次程序的發展。
+
+    另外還有新聞… Steemit注意到我們了
+    =============================
+
+    我們非常幸運的榮登Steemit每日精選的第八位。
+
+    - [steemit.com/curation/@curie/the-daily-curie-22-23-jan-2017](https://steemit.com/curation/@curie/the-daily-curie-22-23-jan -2017)
+    - [steemit.com/art/@gogo.tattoo/gogo-tattoo-design-tattoo](https://steemit.com/art/@gogo.tattoo/gogo-tattoo-design-tattoo)
+    - [gogo.tattoo/gogo/design/pans_compass](/gogo/design/pans_compass)
+    - [gogo.tattoo/gogo/tattoo/pans_compass](/gogo/tattoo/pans_compass)
+
+    請查看我們近期Steemit上的內容，有關於我們為藝術家創作的紋身設計找到了主人。
+    全程都有被紀錄在我們的demo/alpha 網頁上。
+
+    還有為聯合國秘書長候選人紋上了和平橄欖枝
+    ====================================
+
+    那一天一位可愛的亞裔聯合國秘書長候選人找到了Gogo並讓她為其紋上了象徵和平的橄欖枝。
+    我們非常驕傲的想要傳播這個關於和平的信息！
+
+    - [steemit.com/art/@gogo.tattoo/gogo-tattoo-fine-lines](https://steemit.com/art/@gogo.tattoo/gogo-tattoo-fine-lines)
+    - [gogo.tattoo/gogo/tattoo/olive_branch](/gogo/tattoo/olive_branch)
+
+    俄羅斯藝術家Valentin 也上傳了他收集的個人作品在我們的網站上:
+
+    - [gogo.tattoo/aid](/aid)
+
+    我們將會開始與對我們的項目感興趣的伙伴們建立連接，幫助我們在世界各地紀錄作品，
+    也期望可以和更多攝影師和紋身領域的伙伴們建立聯結，將作品在最美麗的狀態下被展示。
+    我們持續關注著一些項目，諸如 [colony.io](https://blog.colony.io/colony-q1-update-b386425e0a00#.ns7jb5ggu),
+    [akasha](http://blog.akasha.world/2017/01/16/into-the-ether/),
+    [ark.io](https://blog.ark.io/the-ark-tec-is-over-prepare-to-board-the-ark-e40d7f90ace9#.6647a91y4), waves, lisk,
+    而且從來沒有停止關注[查看Ethereum的發展進程](https://blog.ethereum.org)。
+
+    我們的社區發展迅速，並已世界化。
+
+    記得多回來看看我們的發展進程。
+
+    雞年納福,
+    [Gogo Tattoo 團隊](/)
+
+
+
+- id: pr5.title
+  translation: |
+    2017春日更新
+- id: pr5.description
+  translation: |
+    ---------------------
+    在過去的幾個月裡，[gogo.tattoo](/) 發生了許多大事件事情，在這個勞動節的周末給到了我們許多更新和報導。
+    開源的Web開發繼續推動著我們的平台向著令人興奮的方向發展進化，我們的核心組藝術家的技術也在同在工作室工作的大師Xizi的帶領下不斷的成長。
+    不僅僅是技術的進步，在平台開放方面，我們的在藝術家、客戶與工作室之間的無縫接合願景也在不斷發展，還有每個紋身項目的記錄工程也 gogo.tattoo 上越發成型。
+
+    - [github.com/gogotattoo](https://github.com/gogotattoo)
+    - [gogo.tattoo/xizi](http://gogo.tattoo/xizi)
+
+    在移動端的開發方面，我們正在努力開發alpha版本的開源Android應用程序。手機應用程序現在已經通過GooglePlay發布，所以如果您對我們感興趣，想要成為一個alpha程序測試員，請與我們取得聯繫！令人更興奮的是 gogo.tattoo iOS應用現在也在積極發展中。
+
+    - [app.gogo.tattoo](http://app.gogo.tattoo)
+    - [github.com/gogotattoo/gogo-android](https://github.com/gogotattoo/gogo-android)
+    - [github.com/gogotattoo/gogo-ios](https://github.com/gogotattoo/gogo-ios)
+
+    我們的網站新功能包括自動為紋身過程照片和作品添和藝術家頁面的本地化，支持著我們的目標—— 不僅在他們身處的地區，更在國際範圍內為有才華的藝術家提高知名度，為他們提供更多的國際觀眾。
+    現在，您可以查看我們的藝術家的中文，英文和俄羅斯語的網頁。同時，我們推出了一個頁面，用於展示一個在我們的發展過程中起著核心作用的令人難以置信的工作室，處於上海市中心的楚上風文道。
+    如果您想要看看我們已經記錄在網站上的工作，現在可以此鏈接查看。
+
+    - [gogo.tattoo/@chushangfeng](http://gogo.tattoo/@chushangfeng)
+
+    另一方面，我們正準備推出tattube，一個構架在IPFS上的紋身相關去中心化youtube。
+
+    - [github.com/gogotattoo/ipfstube](https://github.com/gogotattoo/ipfstube)
+
+    這一切都發生的太快了，我們期待在未來幾個月裡會有更多的大新聞。您不止可以關注我們的[Twitter](https://twitter.com/gogo_tattoo)，現在您也可以關注我們的[Steemit](https://steemit.com/@gogo.tattoo)，在那裡你可以得到更多關於有才華的紋身大師的信息，還有查看到他們和我們一起工作期間完成的作品。
+
+    包括[Yana](http://gogo.tattoo/yana) Gogo她自己，我們的一部分團隊成員正在前往俄羅斯。在那裡，她和[Valentin](http://gogo.tattoo/aid)都被邀請參加了5月12日至14日的聖彼得堡紋身周。
+
+    <center>
+    ***來這裡找我們吧！ *** <br> <br>
+    _Yana Gogo的作品拍賣仍在進行之中，所以如果您想在與我們討論這些可以在紋身周上[呈現的設計](http://gogo.tattoo/gogo/design)，請盡快與我們聯繫。 _
+    ***_Email: team[at]gogo.tattoo_***
+    </center>
+
+     - [Yana Gogo - Participant at The Saint-Petersburg Tattoo Weekend - May 2017](http://tattoo-weekend.ru/guest/artist/?id=1142)
+
+      [<img src="http://tattoo-weekend.ru/media/images/artists/1142/sm/en.jpg" width="360" height="360"/>](http://tattoo- weekend.ru/guest/artist/?id=1142)
+
+     - [Valentin Aidov - Participant at The Saint-Petersburg Tattoo Weekend - May 2017](http://tattoo-weekend.ru/guest/artist/?id=1064)
+
+     [<img src="http://tattoo-weekend.ru/media/images/artists/1064/sm/en.jpg" width="360" height="360"/>](http://tattoo- weekend.ru/guest/artist/?id=1064)
+
+    我們也很快將有一些關於區塊鏈/加密社區的消息，但對於此話題，
+    在我們的下一次更新中會有更多的信息。
+
+    如果您有關注Golos.io，請關注我們，為我們投票，點擊：
+
+    - [golos.io/@gogo.tattoo](https://golos.io/@gogo.tattoo)
+    - [golos.io/@gogo](https://golos.io/@gogo)
+
+    勞動節快樂！
+
+    [gogo.tattoo團隊](http://gogo.tattoo/)
